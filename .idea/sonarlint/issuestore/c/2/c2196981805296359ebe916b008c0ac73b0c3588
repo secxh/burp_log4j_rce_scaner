@@ -1,0 +1,20 @@
+
+`	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+E
+java:S1066("/Merge this if statement with the enclosing one.(þÒõ±
+f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑæõŠ
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å’º³ýÿÿÿÿ
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì£žÊ
+l	java:S116"WRename this field "ExtenderName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œß‘º
+p
+java:S1450"URemove the "stderr" field and declare it as a local variable in the relevant methods.(ø«®çþÿÿÿÿ
+m
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(”ŸÌóþÿÿÿÿ
+a	java:S1289"LEnd this switch case with an unconditional break, return or throw statement.(‰ˆ—¦
+<	java:S1318""Add a default case to this switch.(ÅÃ¦æúÿÿÿÿ
+t
+java:S2142X"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+P
+java:S6213d":Rename this variable to not match a restricted identifier.(¹’›À
+E
+java:S1068"*Remove this unused "stderr" private field.(ø«®çþÿÿÿÿ
